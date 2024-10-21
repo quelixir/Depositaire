@@ -16,7 +16,7 @@ python = "^3.10"
 Flask = "^3.0.0"
 toml = "^0.10.2"
 python-dotenv = "^1.0.0"
-mysql-connector-python = "^8.4.0"
+mysql-connector-python = "^9.1.0"
 
 [tool.poetry.dev-dependencies]
 flake8 = "^7.0.0"
